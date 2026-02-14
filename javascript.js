@@ -21,3 +21,5 @@ switch (number) {
     default:
     console.log("Default");
 }
+
+// you cant use codition like number < 0

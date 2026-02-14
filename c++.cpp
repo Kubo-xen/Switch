@@ -28,3 +28,5 @@ switch (number) {
 }
     return 0;
 }
+
+// you cant use codition like number < 0
